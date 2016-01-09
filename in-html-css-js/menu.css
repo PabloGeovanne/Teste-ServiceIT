@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+.dcjq-mega-menu ul.menu ul, .dcjq-mega-menu ul.menu li {
+	list-style: none; 
+	padding: 0; 
+	margin: 0;
+}
+.dcjq-mega-menu ul.menu ul {
+	display: none;
+}
+.dcjq-mega-menu ul.menu .sub ul {
+	display: block;
+}
+
+.dcjq-mega-menu ul.menu {
+	width: 0%; 
+	height: 0px;
+	position: relative;
+	font: Dosis-Bold; 
+	line-height: 11px;
+	margin-left:150px;
+	float:left;
+}
+.dcjq-mega-menu ul.menu li {
+	float: left; 
+	font-weight:0;
+}
+.dcjq-mega-menu ul.menu li a {
+	float: left; 
+	display: block;  
+	padding: 12px 25px; 
+	color: #fff;
+	text-decoration: none;
+	margin-top:12px;
+	margin-bottom:12px;
+}
+.dcjq-mega-menu ul.menu li.mega-hover a, .dcjq-mega-menu ul.menu li a:hover {
+	background-position: 100% -40px; 
+	color: #FFF; 
+	text-shadow: none;
+	background-color:#242424;
+}
+
+
+
+.dcjq-mega-menu ul.menu li a.dc-mega {
+	padding-right: 38px;
+	position: relative; 
+}
+.dcjq-mega-menu ul.menu li a .dc-mega-icon {
+	display: block; 
+	position: absolute; 
+	top: 18px; 
+	right: 15px; 
+	width: 8px; 
+	height: 6px;
+}
+.dcjq-mega-menu ul.menu li.mega-hover a .dc-mega-icon {
+	background-position: 0 100%;
+}
+
+.dcjq-mega-menu ul.menu li .sub-container {
+	position: absolute; 
+	padding-left: 10px;
+	margin-left: -99px;
+	float:left;
+}
+.dcjq-mega-menu ul.menu li .sub {
+	background-color:#242424; 
+	padding: 20px 20px 20px 10px;
+	width:1311px;
+	height:162px;
+	margin-top:5px;
+	margin-left:-263px;
+}
+.dcjq-mega-menu ul.menu li .sub-container.mega .sub {
+	padding: 20px 10px 0 0;
+}
+.dcjq-mega-menu ul.menu li .sub .row { 
+	width: 100%; 
+	overflow: hidden; 
+	clear: both;
+}
+.dcjq-mega-menu ul.menu li .sub li {
+	float: none; 
+	font-size: 1em; 
+	font-weight: bold;
+}
+.dcjq-mega-menu ul.menu li .sub li.mega-hdr { 
+	width: 260px;
+	margin: 0 0px 0px 80px;
+}
+.dcjq-mega-menu ul.menu li .sub a {
+	background: none; 
+	border: none; 
+	text-shadow: none; 
+	color: #111; 
+	padding: 7px 10px; 
+	display: block; 
+	float: left; 
+	text-decoration: none; 
+	font-size: 0.9em; 
+}
+.dcjq-mega-menu ul.menu li .sub li.mega-hdr a.mega-hdr-a {
+	padding: 7px 10px;
+	margin-bottom: 112px; 
+	border-bottom: 1px solid #ccc; s
+	text-transform: uppercase; 
+	font-weight: bold; 
+	color: #FFF; 
+	background: #EAEAEA url(images/bg_hdr.png) repeat-x center center;
+	margin-left:-60px;
+
+}
+.dcjq-mega-menu ul.menu li .sub li.mega-hdr a.mega-hdr-a:hover {
+	color: #FFF; 
+	text-shadow: none;
+	}
+
+.dcjq-mega-menu ul.menu li .sub li ul li {
+	margin-right: 90px;
+	margin-bottom:15px;
+	margin-left:150px;
+	position: relative;
+}
+.dcjq-mega-menu ul.menu .sub li.mega-hdr li a {
+	color: #FFF;
+	font-weight: Dosis-Bold; 
+	padding: 3px 0 3px 25px; 
+	background: url(images/bullet.png) no-repeat 10px 8px;
+	margin-left:0px;
+	margin-right:-60px;
+	margin-top:10px;
+	margin-bottom:5px;
+	float:left;
+ 
+}
+.dcjq-mega-menu ul.menu .sub li.mega-hdr li a:hover {
+	color: #990000;
+	background-image: url(images/bullet_on.png); 
+}
+
+
+.dcjq-mega-menu ul.menu li .sub-container.non-mega .sub {
+	padding: 20px 20px 20px 10px;
+}
+.dcjq-mega-menu ul.menu li .sub-container.non-mega li {
+	width: 190px;
+}
+.dcjq-mega-menu ul.menu li .sub-container.non-mega li a {
+	padding: 7px 5px 7px 22px; 
+	background: url(images/bullet.png) no-repeat 5px 12px;
+}
+.dcjq-mega-menu ul.menu li .sub-container.non-mega li a:hover {
+	color: #990000;
+	background-image: url(images/bullet_on.png);
+}
