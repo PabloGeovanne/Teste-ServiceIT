@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family:Dosis-Bold;
+	background-color:#FFF;
+	margin:0 auto;	
+}
+
+@font-face {
+	font-family:"Dosis-Bold";
+	src:url("http://projetosnaweb.ml/projetos/fonts/Dosis-Bold.otf") format("truetype");
+}
+div#banner-topo img,
+ul#nav,
+ul#nav-menu2,
+div#menu2 p,
+div#banner-carros,
+div#secao,
+div.artigo,
+.dcjq-mega-menu ul.menu li .sub li.mega-hdr a.mega-hdr-a,
+#menu-normal {
+	display: none;
+	}
+	
+div#banner-mobile {
+	margin-top:6px;
+	width:300px;
+	height:48px;
+	margin-bottom:6px;
+	margin:0 auto;
+}
+
+div#menu h1 {
+	height:45px;
+	margin-top:6px;
+	margin-right:-8px;
+	margin-left:-8px;
+	margin-bottom:0px;
+	background-color:#ed1c24;
+	padding: 5px 36%;		
+}
+
+div#menu img {
+	width:150px;
+	height:32px;
+	margin:auto;
+	}
+	
+img.img-mobile {
+	margin-top:0px;
+	margin-bottom:1px;
+	height:60%;
+	width:100%;
+	}
+	
+#nav-btn {
+	position:fixed;
+	border:#Bababa 1px solid;
+	border-radius: 2px;
+	padding:5px 10px;
+	cursor:pointer;
+	background-color:#fff;
+	transition: all 0.4s linear;
+}
+
+#nav-btn:hover {
+	border: #0061f2 1px solid;
+}
+
+#nav-btn>div {
+	width: 20px;
+	height: 3px;
+	background:#Bababa;
+	margin:4px 0px;
+	transition: all 0.4s linear;
+}
+
+#nav-btn:hover div {
+	background: #0061f2;
+}
+
+#nav-slide {
+	position:fixed;
+	left:-250px;
+	top:60px;
+	width:250px;
+	height:0px;
+	background:#cdcdcd;
+	transition:left 0.4s linear; 
+}
+
+div.dcjq-mega-menu ul.menu li .sub {
+	background-color:#d41f1f; 
+	padding: 0px 0px 0px 0px;
+	height:361px;
+	margin-top:8px;
+	margin-left:0px;
+	width:auto;
+	top:20px;
+}
+
+#menu-mobile {
+
+	}
+
+#menu-mobile:hover {
+	float: left; 
+	display: block;  
+	padding: 12px 25px; 
+	margin-top:12px;
+	margin-bottom:12px;
+	background-color:#d41f1f;
+	}
+	
