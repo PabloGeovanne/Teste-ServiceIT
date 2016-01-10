@@ -1,0 +1,13 @@
+# ServiceIT
+Processo seletivo ServiceIT - Projeto 4Rodas WordPress
+Apartir de um arquivo PSD foi desenvolvido o site que se encontra na pasta "in-html-css-js" (site bruto em html,css,javascript)
+Convertido para se comportar no ambiente PHP juntamente com CSS e JavaScript
+adaptado para WordPress - (Importação de Tema Funcionando sem erros)
+#Estruturação# (faltou finalizar varios items do PSD)
+##Conteudo## (conteudo foi inserido normalmente - com mais tempo seria possivel incluir algumas funções de interação)
+##Menu JavaScript## (Houve dificuldade no desenvolvimento do menu mais na parte de CSS - O botões estão incompleto apenas o Home esta 
+disponivel).
+##Responsivel## (O site foi configurado para altenar o css conforme o tamanho da tela que o acessa, porem essa função esta funcionando
+apenas no navegado "chrome" para ser mais preciso - quando reduzir o tamanho da janela o css muda para um adaptavel para smartphone,
+porem foi testado em um dispositivo celular e o site para desktop é apresentado).
+
