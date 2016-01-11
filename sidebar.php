@@ -3,7 +3,7 @@
     <!-- mega menu inicio -->
 <div class="dcjq-mega-menu">
 <ul id="mega-menu-tut" class="menu">
-	<li><a id="menu-normal" href="#">HOME</a>
+	<li><a id="menu-normal" href="#">CARROS</a>
     <a id="menu-mobile" href="#"><img src="http://projetosnaweb.ml/projetos/img/buton-mobile.png" /></a>
 		<ul>
 			<li id="menu-item-1"><a href="#">Ver todos os carros</a>
