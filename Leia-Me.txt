@@ -11,3 +11,4 @@ disponivel).
 apenas no navegado "chrome" para ser mais preciso - quando reduzir o tamanho da janela o css muda para um adaptavel para smartphone,
 porem foi testado em um dispositivo celular e o site para desktop é apresentado).
 
+Site Quatro Roda em funcionamento como Theme no WordPress "http://projetosnaweb.ml/wordpress/"
