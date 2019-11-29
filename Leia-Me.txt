@@ -1,6 +1,6 @@
 # ServiceIT
 
-Apartir de um arquivo PSD foi desenvolvido o site que se encontra na pasta "in-html-css-js" (site bruto em html,css,javascript)
+A partir de um arquivo PSD foi desenvolvido o site que se encontra na pasta "in-html-css-js" (site bruto em html,css,javascript)
 Convertido para se comportar no ambiente PHP juntamente com CSS e JavaScript
 adaptado para WordPress - (Importação de Tema Funcionando sem erros)
 #Estruturação# (faltou finalizar varios items do PSD)
